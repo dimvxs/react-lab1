@@ -1,0 +1,96 @@
+.main{
+  background-color: cadetblue;
+  border: 1px black solid;
+  width: 50%;
+}
+
+.gogol{
+  width: 200px;
+  height: 300px;
+}
+
+.bio{
+  background-color: cadetblue;
+  border: 1px black solid;
+  width: 50%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.App{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.App1{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.App2{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.info{
+  background-color: rgb(57, 57, 234);
+  color: white;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.rewards{
+  background-color: rgb(57, 57, 234);
+  color: white;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.logo{
+  width: 200px;
+  height: 200px;
+}
+
+body{
+  /* background-image: url('background.jpeg');  */
+  background-image: url('football.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat; 
+  background-position: center center;
+  background-size: 200%;
+
+}
+
+.players{
+  background-color: rgb(57, 57, 234);
+  color: white;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.theme1{
+  background-color: blueviolet;
+}
+
+.theme2{
+  background-color: rgb(226, 43, 192);
+}
+.theme3{
+  background-color: rgb(0, 246, 12);
+}
